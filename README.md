@@ -1,6 +1,6 @@
 <div align="center">
 
-# Python Package Template
+# BFF Client
 
 The template repository for creating python packages, shared across auth-broker.
 
@@ -20,18 +20,6 @@ The template repository for creating python packages, shared across auth-broker.
 [![CI](https://github.com/auth-broker/client-template/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/auth-broker/client-template/actions/workflows/ci.yaml)
 
 </div>
-
-______________________________________________________________________
-
-## Template Checklist
-
-- [ ] Create module `src/ab_client/your_package_name` ->
-  `src/ab_client/your_package_name`
-- [ ] Update `pyproject.toml`: `[project]` section based on your package name
-  / versioning etc.
-- [ ] Update `README.md` references of `your-package-name` ->
-  `your-package-name`
-- [ ] Remove this section
 
 ______________________________________________________________________
 

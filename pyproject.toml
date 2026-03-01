@@ -20,8 +20,8 @@ dependencies = [
   "pydantic>=2.11.9",
   "httpx>=0.23.0,<0.29.0",
 ]
-description = "A client package template."
-name = "ab-client-template"
+description = "Client package for auth broker bff service."
+name = "ab-client-bff"
 readme = "README.md"
 requires-python = ">=3.12,<4.0"
 version = "0.1.0"
